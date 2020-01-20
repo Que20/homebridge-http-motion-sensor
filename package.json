@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-http-motion-sensor",
+  "version": "1.0.0",
+  "description": "Motion sensor plugin for Homebridge",
+  "keywords": [
+    "homebridge-plugin",
+    "pir",
+    "motion sensor"
+  ],
+  "license": "MIT",
+  "author": "Kevin Maarek <contact@kevinmaarek.fr>",
+  "dependencies": {},
+  "engines": {
+    "node": ">=8.0.0",
+    "homebridge": ">=0.4.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/que20/homebridge-http-motion-sensor"
+  }
+}
