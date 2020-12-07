@@ -12,7 +12,7 @@ Previous installation of [Homebridge](https://github.com/nfarina/homebridge) is 
 Then run the following command to install `homebridge-http-motion-sensor`
 
 ```
-npm install -g homebridge-http-motion-sensor
+npm install -g npm install -g homebridge-http-pir-motion-sensor
 ```
 
 ## Configuration
